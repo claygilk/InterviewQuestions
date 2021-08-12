@@ -1,0 +1,177 @@
+What primitive data types do you know in C#?
+What’s the difference between C# and .NET?
+What is a class?
+What is a method?
+What are each of the parts of a for loop and when do they run?
+What’s the difference between a for loop and a while loop?
+What’s the difference between a while loop and a do while loop?
+What is the difference between a stack and a queue?
+What have you worked with for unit testing?
+Why would you declare something to be a visibility other than public?
+What is the default visibility or access level of a class if you do not specify a visibility?
+What is inheritance? Why is it useful?
+What is a unit test?
+What is a HashSet?
+What is a Dictionary? (Note: some other languages call Dictionaries “Map”s)
+What belongs in a method signature?
+What is an array? What restrictions are present on an array in C#?
+What is Object Oriented Programming?
+What is null?
+What is immutability?
+What does the void keyword mean?
+How do you test your code?
+What git commands do you use to share your code with a remote repository?
+What is a commit?
+What’s the difference between a class and an object?
+What is an interface?
+What’s the difference between a compiler error and an exception?
+Is C# compiled or interpreted?
+What version of .NET did you work with at Tech Elevator? (Hint: .NET Core 3.1)
+What’s the difference between .NET Core, .NET Framework and .NET 5+?
+What is the difference between the stack and the heap?
+What do you have to do to override a method in C#?
+What access modifiers or visibilities do you know in C# and what do they mean?
+What is polymorphism? Can you give me a good example?
+What is an example of encapsulation?
+What is a property in C#?
+Does C# have multiple inheritance?
+What’s the difference between inheriting a class and implementing an interface?
+What’s the difference between a class and an interface?
+What’s the difference between an abstract class and an interface?
+What does the sealed keyword mean?
+What does the virtual keyword mean?
+What does the const keyword mean?
+What does the readonly keyword mean?
+What is a static method?
+Give me an example of where you might want to apply inheritance
+Give me an example of where you might want to apply interfaces
+How is C# different from JavaScript?
+How do you get a NullReferenceException?
+What is refactoring?
+How do you structure a unit test?
+What git commands do you know?
+What is merging?
+Is git client / server, distributed, peer-to-peer, or something else?
+What are the parts of C#’s exception handling syntax? How do they work?
+What is a stream? How does it relate to working with files?
+What is a buffer? Why does it matter when working with files?
+What is a generic type and how does that apply to collections in C#? (Hint: think List<T>)
+When would you choose to use an interface instead of an abstract class or vice versa when designing a system.
+If you were designing a system to manage a series of elevators in a busy hotel, what classes would you have and what would they be responsible for?
+What is the common language runtime?
+What is Intermediate Language (MSIL)?
+What is bytecode?
+Describe the staging area in git.
+What is the difference between a reference type and a value type? How do they act differently when you pass them to a method?
+How many cans of Diet Doctor Pepper were consumed in or over Ohio last month?
+If you had an airplane that was completely full of jelly beans, how would you get the jelly beans out? You are allowed to only use boxes.
+What is SQL? What is it used for?
+What is a database? Why is it important?
+What SQL keywords do you know?
+How do you select something from a database table?
+How do you select a column and name it something different in the SQL results?
+How do you limit the number of rows returned by a query?
+How do you limit the number of rows returned by a query without using where?
+What keyword do you use in SQL to sort the result rows?
+What does the SQL group by keyword do?
+What is a primary key?
+What is a foreign key?
+What is a join?
+What is a subselect / subquery?
+Can you give me an example of a place where subselects would be useful?
+What SQL keywords would you use to get the maximum value of a column in a table?
+How would you filter a table to get only the unique values for a column?
+What SQL data types do you know?
+What types of database constraints do you know?
+Why is it important to name a database constraint?
+What restrictions does a foreign key introduce?
+What is a database transaction? Why would you use one?
+What is a left outer join?
+What is a clustered or composite key?
+What is an associative table?
+What’s the difference between a primary key and a foreign key?
+Are you familiar with entity relationship diagrams (ERDs)?
+What is normalization (Alternatively: What are the different “normal forms”)?
+What’s a stored procedure? (Not on curriculum, but common)
+What’s an index? (Not on curriculum, but common)
+What are the different types of joins and what are their difference?
+What is an API?
+What is REST?
+What REST verbs are you familiar with?
+What are the five major bands of status codes in REST?
+What is the purpose of a HTTP Status code?
+What is ASP.NET?
+What does client / server communication mean?
+What is an HTTP Header? What are they used for?
+What is TLS?
+Describe JWT Authentication
+What are the parts of a REST Request?
+What are the parts of a REST Response?
+What are the parts of a URL?
+How does validation work in ASP .NET?
+How does ASP .NET know which method to call when an incoming request comes in?
+Describe the MVC pattern.
+What HTTP Status Codes do you often have to worry about as a developer?
+You make a web request in Postman but get a 401 status code. What’s wrong?
+You make a web request in Postman but get a 401 status code despite including a JWT. What’s wrong?
+You make a web request in Postman but get a 403 status code. What’s wrong?
+What is Matt Eland’s favorite HTTP Status Code?
+If you were to build a REST API around a book store, what REST resources and verbs might you find in that system?
+What happens in a browser when you type in a URL and hit enter?
+What is Dependency Injection?
+What are the parts of a JWT?
+What is a claim and what are some uses for it?
+What are the two main sections in an HTML file?
+How does your browser know to download CSS and JS files when looking at a web page?
+What is the purpose of HTML vs CSS vs JavaScript?
+What is JavaScript’s purpose in the web browser?
+How is JavaScript different from C#?
+What are the differences between Let / Var / Const?
+What’s the difference between === and ==?
+How can you tell if there are JavaScript errors on a page?
+How can you get a specific element from the browser using JavaScript?
+How can you get all matching elements from the browser using JavaScript?
+What is Vue.js?
+What is Vue.js’s relationship with JavaScript?
+What three sections can be in a .vue file? What are their purposes?
+What is the DOM?
+What is “truthiness” in JavaScript?
+What are the things in JavaScript that are falsy?
+Describe hoisting
+What are the differences between arrays in JavaScript and arrays in C#?
+What array methods do you know?
+What is an anonymous function?
+What is an arrow function?
+What is a Promise and how do you work with one?
+What is npm? What does it do for you?
+When might you choose to use Vue.js instead of VanillaJS?
+What is data binding?
+What is Vuex? Why would you use it?
+What is routing in Vue.js?
+How can different components communicate to each other in Vue?
+What is the purpose of semantic HTML?
+What does the Cascading part of CSS’s name mean?
+Why use CSS when you can use style tags?
+What determines which CSS element applies to HTML?
+What can you tell me about specificity in CSS?
+Describe the CSS box model
+Describe the CSS grid system
+What is CSS Grid and how does it work?
+What is CSS Flexbox and how does it work?
+What is responsive design?
+What is a media query?
+What is Babel?
+What is ESLint?
+What is WebPack?
+What is minification?
+What is VanillaJS?
+What’s the difference between Vue and React or Angular?
+How do you deploy a Vue application?
+What do you know about web accessibility?
+Can you list some values that are acceptable for the HTML input field’s type attribute?
+How can you tell which CSS selectors are applied to an individual element in the browser?
+What’s the difference between inline, block, and inline-block layouts?
+What’s the specificity of this selector? * // main > div.container ul > li a.visited // main#appContainer
+What CSS frameworks are you familiar with? What are they? (hint: Bootstrap is one)
+Do you know LESS, SASS, or SCSS? What do they do?
+What do you know about aria tags?

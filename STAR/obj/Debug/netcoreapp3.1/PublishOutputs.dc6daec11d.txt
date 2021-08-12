@@ -1,0 +1,5 @@
+C:\Users\Student\source\repos\STAR\STAR\bin\Debug\netcoreapp3.1\publish\STAR.exe
+C:\Users\Student\source\repos\STAR\STAR\bin\Debug\netcoreapp3.1\publish\STAR.dll
+C:\Users\Student\source\repos\STAR\STAR\bin\Debug\netcoreapp3.1\publish\STAR.deps.json
+C:\Users\Student\source\repos\STAR\STAR\bin\Debug\netcoreapp3.1\publish\STAR.runtimeconfig.json
+C:\Users\Student\source\repos\STAR\STAR\bin\Debug\netcoreapp3.1\publish\STAR.pdb

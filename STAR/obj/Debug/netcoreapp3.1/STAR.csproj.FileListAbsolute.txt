@@ -1,0 +1,13 @@
+C:\Users\Student\source\repos\STAR\STAR\bin\Debug\netcoreapp3.1\STAR.exe
+C:\Users\Student\source\repos\STAR\STAR\bin\Debug\netcoreapp3.1\STAR.deps.json
+C:\Users\Student\source\repos\STAR\STAR\bin\Debug\netcoreapp3.1\STAR.runtimeconfig.json
+C:\Users\Student\source\repos\STAR\STAR\bin\Debug\netcoreapp3.1\STAR.runtimeconfig.dev.json
+C:\Users\Student\source\repos\STAR\STAR\bin\Debug\netcoreapp3.1\STAR.dll
+C:\Users\Student\source\repos\STAR\STAR\bin\Debug\netcoreapp3.1\STAR.pdb
+C:\Users\Student\source\repos\STAR\STAR\obj\Debug\netcoreapp3.1\STAR.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\STAR\STAR\obj\Debug\netcoreapp3.1\STAR.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\STAR\STAR\obj\Debug\netcoreapp3.1\STAR.AssemblyInfo.cs
+C:\Users\Student\source\repos\STAR\STAR\obj\Debug\netcoreapp3.1\STAR.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\STAR\STAR\obj\Debug\netcoreapp3.1\STAR.dll
+C:\Users\Student\source\repos\STAR\STAR\obj\Debug\netcoreapp3.1\STAR.pdb
+C:\Users\Student\source\repos\STAR\STAR\obj\Debug\netcoreapp3.1\STAR.genruntimeconfig.cache
